@@ -9,7 +9,7 @@ public class Main {
         int n, a, d, l, sum;
 
         //Input the number of terms for arithmetic progression
-        System.out.print("Enter the number of terms (n): ");
+        System.out.print("Enter number of terms (n): ");
         //Read the next integer from the screen
         n = scanner.nextInt();
         if (n<=0){
